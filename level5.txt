@@ -1,0 +1,16 @@
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eee___eeee
+eee___eeee
+eee___eeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+Fireman 4 4
+Fire 1 1
+Fire 9 3
+Fire 8 8
+Fire 0 9
+FireTruck 4 5

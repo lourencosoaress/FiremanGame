@@ -1,0 +1,17 @@
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eee___eeee
+eee___eeee
+eee___eeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+Fireman 4 4
+Fire 0 8
+Fire 8 0
+Fire 1 1
+Fire 9 9
+Bulldozer 3 4
+Bulldozer 4 3

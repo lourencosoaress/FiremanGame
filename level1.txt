@@ -1,0 +1,15 @@
+ppppp__ppp
+pppp____pp
+pep_____pp
+eee______p
+eeeee____p
+eeeeppmmpp
+eeeppmmmpp
+eeeemmmmmp
+eeebemmmmp
+eeeeeepppp
+Fireman 7 1
+Fire 9 1
+Fire 0 9
+FireTruck 7 2
+FiremanBot 5 5

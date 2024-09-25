@@ -1,0 +1,14 @@
+aaaaappppp
+abaapppbpp
+aaappppppp
+aaaa__pppp
+aaa____eee
+aa_______e
+eeee____ee
+eemmm____m
+eeeebem__m
+eeeeeeee__
+Fireman 4 4
+Fire 0 0
+Fire 9 0
+Fire 0 9
